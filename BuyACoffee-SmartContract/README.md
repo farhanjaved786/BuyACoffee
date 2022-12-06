@@ -1,4 +1,7 @@
-You can see a demo of this repo on Replit : https://replit.com/@farhan756/BuyMeACoffee-Website?v=1
+with this code you get a smart-contract like my contract: https://goerli.etherscan.io/address/0xc6be03d9c5e117b5b708404c542ce1e43fd9ca0e
+ 
+then apply put this smartcontract in your website like below my website
+You can see also a demo and my repo on Replit  : https://replit.com/@farhan756/BuyMeACoffee-Website?v=1
 
 
 # BuyMeACoffee solidity contract
