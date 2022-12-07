@@ -1,4 +1,4 @@
-MY Smart-Contract Address `0xC6Be03D9c5e117b5B708404C542Ce1e43Fd9cA0E`
+My Smart-Contract Address https://goerli.etherscan.io/address/0xc6be03d9c5e117b5b708404c542ce1e43fd9ca0e
 
-My Buy-a-coffee website link `https://replit.com/@farhan756/BuyMeACoffee-Website?v=1`
+My Buy-a-coffee website link https://replit.com/@farhan756/BuyMeACoffee-Website?v=1
 
